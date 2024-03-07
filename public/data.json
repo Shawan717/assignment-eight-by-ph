@@ -1,0 +1,139 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/h1TSGzm/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "category_bg": "#AEC8FF",
+      "card_bg": "#D9E5FF",
+      "text_button_bg": "#0052FF",
+      "description": "THealth is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity. The enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition",
+      "price": 290
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/7kD54Ng/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "category_bg": "#FFC3C5",
+      "card_bg": "#FFE3E4",
+      "text_button_bg": "#FF444A",
+      "description": "Education is not how well you can read and write but whether you can communicate with and understand the world around you. A good education not only teaches you skills but also helps you broaden your horizons, gain better perspective, and teaches you to think for yourself. People today are quite aware and comfortable speaking about social injustices and other pressing issues. This can be attributed to the increased access to education around the world, which in turn has made society more accepting and open-minded. Therefore, education is an element of human evolution. The importance of education is also pronounced in areas of creativity and innovation. Education encourages thinking outside the box and experimenting with new ideas.",
+      "price": 856
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/KKyg5HZ/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#D4ECC1",
+      "card_bg": "#EBF6E2",
+      "text_button_bg": "#79C23F",
+      "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together. The wearing of clothing is mostly restricted to human beings and is a feature of all human societies. The amount and type of clothing worn depends on gender, body type, social factors, and geographic considerations. Garments cover the body, footwear covers the feet, gloves cover the hands, while hats and headgear cover the head, and underwear covers the private parts.",
+      "price": 346
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/s35tGXV/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "category_bg": "#FDD2C4",
+      "card_bg": "#FEEAE3",
+      "text_button_bg": "#F87147",
+      "description": "Everyone has a right to healthy and affordable food. Good food for all means ensuring that people experiencing financial crisis or food poverty can access and afford a healthy diet. It means improving food in schools, hospitals and meals on wheels, and in a way that is ‘more than a meal’; good food should be integrated into education, social services and institutional policies. Sustain also works to combat excessive pressure from the advertising and marketing of unhealthy foods and drinks that contribute to poor health.",
+      "price": 965
+    },
+
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/s35tGXV/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#FDD2C4",
+        "card_bg": "#FEEAE3",
+        "text_button_bg": "#F87147",
+        "description": "Everyone has a right to healthy and affordable food. Good food for all means ensuring that people experiencing financial crisis or food poverty can access and afford a healthy diet. It means improving food in schools, hospitals and meals on wheels, and in a way that is ‘more than a meal’; good food should be integrated into education, social services and institutional policies. Sustain also works to combat excessive pressure from the advertising and marketing of unhealthy foods and drinks that contribute to poor health.",
+        "price": 1432
+      },
+      {
+        "id": 6,
+        "picture": "https://i.ibb.co/KKyg5HZ/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#D4ECC1",
+        "card_bg": "#EBF6E2",
+        "text_button_bg": "#79C23F",
+        "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together. The wearing of clothing is mostly restricted to human beings and is a feature of all human societies. The amount and type of clothing worn depends on gender, body type, social factors, and geographic considerations. Garments cover the body, footwear covers the feet, gloves cover the hands, while hats and headgear cover the head, and underwear covers the private parts.",
+        "price": 79
+      },
+      {
+        "id": 7,
+        "picture": "https://i.ibb.co/7kD54Ng/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#FFC3C5",
+        "card_bg": "#FFE3E4",
+        "text_button_bg": "#FF444A",
+        "description": "Education is not how well you can read and write but whether you can communicate with and understand the world around you. A good education not only teaches you skills but also helps you broaden your horizons, gain better perspective, and teaches you to think for yourself. People today are quite aware and comfortable speaking about social injustices and other pressing issues. This can be attributed to the increased access to education around the world, which in turn has made society more accepting and open-minded. Therefore, education is an element of human evolution. The importance of education is also pronounced in areas of creativity and innovation. Education encourages thinking outside the box and experimenting with new ideas.",
+        "price": 654
+      },
+
+
+      {
+        "id": 8,
+        "picture": "https://i.ibb.co/h1TSGzm/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#AEC8FF",
+        "card_bg": "#D9E5FF",
+        "text_button_bg": "#0052FF",
+        "description": "THealth is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity. The enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition",
+        "price": 199
+      },
+
+      {
+        "id": 9,
+        "picture": "https://i.ibb.co/h1TSGzm/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#AEC8FF",
+        "card_bg": "#D9E5FF",
+        "text_button_bg": "#0052FF",
+        "description": "THealth is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity. The enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition",
+        "price": 201
+      },
+      {
+        "id": 10,
+        "picture": "https://i.ibb.co/7kD54Ng/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#FFC3C5",
+        "card_bg": "#FFE3E4",
+        "text_button_bg": "#FF444A",
+        "description": "Education is not how well you can read and write but whether you can communicate with and understand the world around you. A good education not only teaches you skills but also helps you broaden your horizons, gain better perspective, and teaches you to think for yourself. People today are quite aware and comfortable speaking about social injustices and other pressing issues. This can be attributed to the increased access to education around the world, which in turn has made society more accepting and open-minded. Therefore, education is an element of human evolution. The importance of education is also pronounced in areas of creativity and innovation. Education encourages thinking outside the box and experimenting with new ideas.",
+        "price": 512
+      },
+      {
+        "id": 11,
+        "picture": "https://i.ibb.co/KKyg5HZ/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#D4ECC1",
+        "card_bg": "#EBF6E2",
+        "text_button_bg": "#79C23F",
+        "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together. The wearing of clothing is mostly restricted to human beings and is a feature of all human societies. The amount and type of clothing worn depends on gender, body type, social factors, and geographic considerations. Garments cover the body, footwear covers the feet, gloves cover the hands, while hats and headgear cover the head, and underwear covers the private parts.",
+        "price": 987
+      },
+      {
+        "id": 12,
+        "picture": "https://i.ibb.co/s35tGXV/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#FDD2C4",
+        "card_bg": "#FEEAE3",
+        "text_button_bg": "#F87147",
+        "description": "Everyone has a right to healthy and affordable food. Good food for all means ensuring that people experiencing financial crisis or food poverty can access and afford a healthy diet. It means improving food in schools, hospitals and meals on wheels, and in a way that is ‘more than a meal’; good food should be integrated into education, social services and institutional policies. Sustain also works to combat excessive pressure from the advertising and marketing of unhealthy foods and drinks that contribute to poor health.",
+        "price": 40
+      }
+  ]
+  
