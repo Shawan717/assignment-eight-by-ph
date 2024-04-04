@@ -5,17 +5,23 @@ const Statistics = () => {
     const datas = useLoaderData();
     const totalDonated = JSON.parse(localStorage.getItem('donation'))
     console.log(totalDonated);
-    const totalDonationCount = totalDonated.length;
+    const totalDonationCount = totalDonated?.length || [];
     // 
     const noDonatedCount = datas.length - totalDonationCount;
+    // console.log(datas);
+    // console.log(totalDonationCount);
+    console.log(noDonatedCount);
     const data = [
         { name: "Not Donated", value: noDonatedCount, color: "red" },
         { name: "Donated", value: totalDonationCount, color: "green" }
     ];
+    if(noDonatedCount==null){
+        return <h1>No Data Found</h1>
+    }
     return (
         <div className="h-[50vh] flex justify-center items-center">
             <div>
-            {noDonatedCount.length >0?<p>No Dta</p> : <div style={{ width: "100%", height: 300 }}>
+            {noDonatedCount && <div style={{ width: "100%", height: 300 }}>
                 <ResponsiveContainer>
                     <PieChart>
 

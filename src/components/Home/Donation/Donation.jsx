@@ -23,7 +23,7 @@ const Donation = () => {
     
     return (
         <div className="max-w-[1400px] mx-auto ">
-            {noDataFound ? <p>{noDataFound}</p> :
+            {noDataFound ? <div className="w-full mt-[25%] text-center"><p className="text-4xl font-bold text-gray-500">{noDataFound}</p></div> :
                 <div>
                     <div>
                         <div className="flex justify-center items-center mb-6  lg:my-10">
